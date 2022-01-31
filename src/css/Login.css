@@ -1,0 +1,22 @@
+.root {
+    -fx-background-color: #FFC000;
+}
+
+.text-field {
+    -fx-background-color: #FFEDCC;
+}
+
+.button {
+    -fx-text-fill: #FCA304;
+    -fx-font-size: 13px;
+    -fx-fill-width: bold;
+    -fx-font-weight: bold;
+    -fx-background-color: #F3F3F3;
+    -fx-font-family: "微软雅黑";
+}
+
+#title {
+    -fx-font-family: "ui-monospace";
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+}
